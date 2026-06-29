@@ -8,7 +8,11 @@
   
   ---
   
-  ## 🚀 About Me 💻 Passionate about **DevOps, cloud computing** 
+  ## 🚀 About Me
+  💻 Passionate about **DevOps, cloud computing** 
+  
   🌱 Currently learning **devops, git & github, netlify, vercel, render, Docker, Kubernetes** 
+  
   🎯 Goal: Become a **Devops Engineer** 
+  
   ⚡Enthusiastic about Cloud Computing, Docker, Kubernetes, CI/CD, and Infrastructure as Code. ---
