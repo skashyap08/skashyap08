@@ -40,18 +40,11 @@ Become a Professional DevOps Engineer and contribute to Open Source.
 
 # 🚀 Tech Stack
 
-## ☁️ Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
-</p>
-
----
 
 ## ⚙️ DevOps Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,ansible" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,render,vercel" />
 </p>
 
 ---
@@ -75,7 +68,7 @@ Become a Professional DevOps Engineer and contribute to Open Source.
 ## 🛠 Version Control
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
@@ -91,7 +84,7 @@ Become a Professional DevOps Engineer and contribute to Open Source.
 ## 🌐 Web Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ---
@@ -162,16 +155,6 @@ Responsive Portfolio showcasing projects and skills.
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=2&column=4"/>
 
 </p>
 
