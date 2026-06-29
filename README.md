@@ -3,13 +3,9 @@
 
 # 👋 Hi, I'm **Sakshi Kashyap**
 
-### 🚀 DevOps Engineer | Cloud Enthusiast | Linux | Automation Explorer
+### 🚀 DevOps Enthusiast | Cloud Enthusiast | Linux | Automation Explorer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Computing+Enthusiast;CI%2FCD+Automation;Docker+%7C+Kubernetes+%7C+AWS;Always+Learning+New+Technologies" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 </div>
 
