@@ -1,18 +1,233 @@
+
 <div align="center">
-  # 👋 Hi, I'm **Sakshi Kashyap**
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;DevOps+Learner;Open+Source+Contributor;Always+Learning+New+Technologies" /> 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-    <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge"/> 
-    <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge"/> </p> 
-  
-  ---
-  
-  ## 🚀 About Me
-  💻 Passionate about **DevOps, cloud computing** 
-  
-  🌱 Currently learning **devops, git & github, netlify, vercel, render, Docker, Kubernetes** 
-  
-  🎯 Goal: Become a **Devops Engineer** 
-  
-  ⚡Enthusiastic about Cloud Computing, Docker, Kubernetes, CI/CD, and Infrastructure as Code. ---
+
+# 👋 Hi, I'm **Sakshi Kashyap**
+
+### 🚀 DevOps Engineer | Cloud Enthusiast | Linux | Automation Explorer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Computing+Enthusiast;CI%2FCD+Automation;Docker+%7C+Kubernetes+%7C+AWS;Always+Learning+New+Technologies" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+💻 Passionate about **DevOps, Cloud Computing, Automation, and Infrastructure as Code**
+
+🚀 Currently learning:
+- Kubernetes
+- Terraform
+- Jenkins
+- GitHub Actions
+- Docker
+- AWS
+
+🌱 I enjoy building:
+- CI/CD Pipelines
+- Cloud Infrastructure
+- Deployment Automation
+- Monitoring Solutions
+
+🎯 Goal:
+Become a Professional DevOps Engineer and contribute to Open Source.
+
+---
+
+# 🚀 Tech Stack
+
+## ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+</p>
+
+---
+
+## ⚙️ DevOps Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,ansible" />
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+## 🖥️ Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
+
+---
+
+## 🛠 Version Control
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+## 🌐 Web Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🚀 AI Based Study Planner
+> Intelligent planner that generates personalized study schedules.
+
+### Tech Stack
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 😊 Emotion Detection System
+
+Face detection powered emotion recognition using Deep Learning.
+
+### Tech Stack
+
+- Python
+- OpenCV
+- TensorFlow
+- Keras
+
+---
+
+## ☁️ DevOps CI/CD Pipeline
+
+Automated deployment pipeline using  Docker and Jenkins.
+
+### Tech Stack
+
+- Docker
+- Jenkins
+- GitHub Actions
+- Linux
+- AWS
+
+---
+
+## 🌐 Portfolio Website
+
+Responsive Portfolio showcasing projects and skills.
+
+### Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+✅ Kubernetes
+
+✅ Docker
+
+✅ Jenkins
+
+✅ Terraform
+
+✅ AWS
+
+✅ GitHub Actions
+
+✅ Linux Administration
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/skashyap08">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://linkedin.com/in/sakshi-kashyap-369a20273">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+</a>
+
+</p>
+
+---
+
+# 💬 DevOps Quote
+
+> **"Automate everything that can be automated, monitor everything that matters, and continuously improve every deployment."**
+
+---
+
+<div align="center">
+
+
+### 🚀 Happy Coding & Happy Automating!
+
+</div>
