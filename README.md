@@ -1,204 +1,229 @@
-<h1 align="center">Hi 👋, I'm Sakshi Kashyap</h1>
+<!-- ======================================================= -->
+<!--                    PROFILE HEADER                       -->
+<!-- ======================================================= -->
 
-<h3 align="center">
-  Aspiring DevOps Engineer | Cloud Computing | Automation | Linux
-</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/skashyap08">
-    <img src="https://komarev.com/ghpvc/?username=skashyap08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+# SAKSHI KASHYAP
 
----
+### Aspiring DevOps Engineer | Cloud Computing | Automation
 
-## 👩‍💻 About Me
+**Building reliable systems. Automating workflows. Learning continuously.**
 
-I am a Computer Science Engineering undergraduate at **Sardar Beant Singh State University, Gurdaspur**, passionate about DevOps, cloud computing, automation, and building reliable software deployment workflows.
+<br>
 
-- 🎓 Pursuing B.Tech in Computer Science Engineering.
-- 🐧 Interested in Linux administration and system automation.
-- ☁️ Exploring cloud infrastructure and deployment strategies.
-- 🔄 Learning CI/CD pipelines and DevOps best practices.
-- 🐳 Working with Docker and exploring container orchestration.
-- 🌱 Continuously improving my technical skills through hands-on projects.
-- 🎯 **Career Goal:** To become a professional DevOps Engineer and contribute to impactful open-source projects.
+<a href="https://github.com/skashyap08">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
+</a>
+<a href="https://github.com/skashyap08?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Projects-2563EB?style=for-the-badge&logo=github" alt="Projects">
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-### ⚙️ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,terraform,githubactions" alt="DevOps and Cloud Tools" />
-</p>
+Hello! I'm **Sakshi Kashyap**, a Computer Science Engineering undergraduate at **Sardar Beant Singh State University, Gurdaspur**, aspiring to build a career in DevOps and Cloud Engineering.
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript" alt="Programming Languages" />
-</p>
+I'm interested in automating software delivery, working with cloud infrastructure, and developing reliable deployment workflows.
 
-### 🖥️ Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-</p>
+- 🎓 **Education:** B.Tech in Computer Science Engineering
+- ☁️ **Interests:** DevOps, Cloud Computing, and Infrastructure Automation
+- 🐧 **Exploring:** Linux Administration and System Automation
+- 🔄 **Learning:** CI/CD, Containerization, and Infrastructure as Code
+- 💻 **Programming:** Python
+- 🎯 **Career Goal:** Become a professional DevOps Engineer and contribute to meaningful open-source projects.
 
-### 🔧 Version Control & Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-</p>
-
-### 🌐 Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,flask" alt="Web Technologies" />
-</p>
+I believe in learning by building projects, experimenting with new technologies, and continuously improving my technical skills.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 1. 📚 AI-Based Smart Study Planner
+### DevOps & Cloud Engineering
 
-A web-based application designed to help students organize academic tasks and generate personalized study schedules.
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
+
+### Programming & Web Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+</p>
+
+### Tools & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
+
+*Note: The badges represent technologies I use in projects or am exploring. My current learning focus includes Kubernetes, Terraform, Jenkins, AWS, and GitHub Actions.*
+
+---
+
+## Featured Projects
+
+### 01. AI-Based Smart Study Planner
+
+A web application designed to help students organize academic tasks and generate personalized study schedules.
 
 **Key Features**
-- Task and subject management.
-- Deadline-based task prioritization.
+- Subject and task management.
+- Deadline-aware task prioritization.
 - Automated study schedule generation.
 - Interactive dashboard for managing study activities.
 
-**Technologies:** Python, Flask, HTML, CSS, JavaScript, MySQL
+**Technology Stack**
 
-🔗 [View Repository](https://github.com/skashyap08/AI-based-study-planner)
+`Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript`
+
+[View Repository →](https://github.com/skashyap08/AI-based-study-planner)
 
 ---
 
-### 2. 😊 Emotion Detection & Song Recommendation
+### 02. Emotion Detection & Song Recommendation
 
-A Python-based project combining facial emotion recognition with personalized music recommendations.
+A Python-based project exploring facial emotion recognition and emotion-based music recommendations.
 
 **Key Features**
 - Facial expression analysis.
-- Emotion classification using computer vision.
-- Emotion-based song recommendation.
+- Emotion recognition using computer vision.
+- Personalized song recommendations based on detected emotions.
 
-**Technologies:** Python, OpenCV, TensorFlow, Keras
+**Technology Stack**
 
-🔗 [Explore My Repositories](https://github.com/skashyap08?tab=repositories)
+`Python` `OpenCV` `TensorFlow` `Keras`
+
+[Explore Repositories →](https://github.com/skashyap08?tab=repositories)
 
 ---
 
-### 3. ☁️ DevOps CI/CD Pipeline
+### 03. DevOps CI/CD Pipeline
 
-A hands-on DevOps project focused on understanding automated software delivery and deployment workflows.
+A hands-on DevOps learning project focused on understanding automated software delivery and deployment workflows.
 
-**Key Concepts**
-- Source code management with Git and GitHub.
-- Application containerization with Docker.
-- CI/CD workflow automation.
+**Areas of Exploration**
+- Source control and version management.
+- Docker-based application containerization.
 - Jenkins pipeline fundamentals.
-- Linux-based deployment practices.
-- Cloud deployment concepts.
+- GitHub Actions workflow automation.
+- Linux deployment practices.
+- AWS cloud deployment concepts.
 
-**Technologies:** Docker, Jenkins, GitHub Actions, Linux, AWS
+**Technology Stack**
 
-*Note: Update this section with the repository link and implemented features once the project is published.*
+`Git` `Docker` `Jenkins` `GitHub Actions` `Linux` `AWS`
 
----
-
-### 4. 🌐 Portfolio Website
-
-A responsive website showcasing projects, technical skills, and professional interests.
-
-**Technologies:** HTML, CSS, JavaScript
-
-🔗 [Explore My Repositories](https://github.com/skashyap08?tab=repositories)
+*Project status: Update this section with the actual repository link and implemented features when the project is published.*
 
 ---
 
-## 📈 GitHub Statistics
+### 04. Portfolio & Web Deployment
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=skashyap08&show_icons=true&theme=transparent&hide_border=true"
-    alt="Sakshi's GitHub Statistics"
-  />
-</p>
+Web development projects focused on responsive interfaces, source control, and deploying applications to hosting platforms.
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=skashyap08&layout=compact&theme=transparent&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
+**Areas of Experience**
+- Responsive website development.
+- Git and GitHub version control.
+- Application deployment using hosting platforms.
+- Docker-based deployment experimentation.
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=skashyap08&theme=transparent&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+**Technology Stack**
+
+`HTML` `CSS` `JavaScript` `Git` `Docker`
+
+[Explore Repositories →](https://github.com/skashyap08?tab=repositories)
 
 ---
 
-## 📚 Currently Learning
+## Current Learning Roadmap
 
-- [x] Git & GitHub Fundamentals
-- [x] Python Programming
-- [ ] Linux Administration
-- [ ] Docker & Containerization
-- [ ] Kubernetes & Container Orchestration
-- [ ] Jenkins & CI/CD Pipelines
-- [ ] Terraform & Infrastructure as Code
-- [ ] AWS Cloud Services
-- [ ] GitHub Actions & Workflow Automation
-- [ ] Monitoring and Logging Fundamentals
+My current focus is on developing practical DevOps skills through structured learning and hands-on implementation.
 
----
-
-## 📊 GitHub Contributions
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=skashyap08&theme=github-compact&hide_border=true"
-    alt="GitHub Contribution Activity"
-  />
-</p>
+| Technology | Learning Focus |
+|---|---|
+| Linux | Command line, permissions, processes, and administration |
+| Git & GitHub | Branching, merging, collaboration, and version control |
+| Docker | Images, containers, and containerized applications |
+| Jenkins | CI/CD pipelines and build automation |
+| GitHub Actions | Workflow automation and continuous integration |
+| Kubernetes | Container orchestration and application management |
+| Terraform | Infrastructure as Code |
+| AWS | Cloud infrastructure and deployment |
+| Monitoring | Application health, metrics, and logs |
 
 ---
 
-## 🤝 Connect With Me
+## GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/skashyap08">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  📧 Email: <strong>Add your professional email address</strong>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=skashyap08&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skashyap08&layout=compact&hide_border=true&theme=transparent" alt="Top Languages">
 
-## 💡 My DevOps Philosophy
+<br><br>
 
-> "Automate everything that can be automated, monitor everything that matters, and continuously improve every deployment."
+<img width="70%" src="https://streak-stats.demolab.com/?user=skashyap08&hide_border=true&theme=transparent" alt="GitHub Contribution Streak">
+
+</div>
 
 ---
 
-<p align="center">
-  <b>🚀 Learning continuously. Automating intelligently. Building reliably.</b>
-</p>
+## Contribution Activity
 
-<p align="center">
-  Thank you for visiting my profile!
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skashyap08&bg_color=00000000&color=539BF5&line=539BF5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph">
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm interested in connecting with developers, DevOps engineers, cloud professionals, and open-source contributors.
+
+<div align="center">
+
+<a href="https://github.com/skashyap08">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<br><br>
+
+**Email:** Add your professional email address.
+
+</div>
+
+---
+
+<div align="center">
+
+### Engineering Better Workflows, One Step at a Time.
+
+*Learn • Build • Automate • Improve*
+
+**Thanks for visiting my profile!**
+
+</div>
