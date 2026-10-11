@@ -1,229 +1,117 @@
-<!-- ======================================================= -->
-<!--                    PROFILE HEADER                       -->
-<!-- ======================================================= -->
+---
 
-<div align="center">
+## 🚀 Featured DevOps Projects
 
-# SAKSHI KASHYAP
+### 01. ☁️ CI/CD Pipeline with Jenkins & Docker
 
-### Aspiring DevOps Engineer | Cloud Computing | Automation
+**Objective:** Automate the process of building, testing, and deploying a web application.
 
-**Building reliable systems. Automating workflows. Learning continuously.**
+- Configured a Jenkins pipeline to automate application build and deployment stages.
+- Containerized the application using Docker.
+- Integrated GitHub for source code management.
+- Automated pipeline execution when new code changes are pushed.
+- Documented the build and deployment workflow.
 
-<br>
+**Tech Stack:**
+`Git` `GitHub` `Jenkins` `Docker` `Linux`
 
-<a href="https://github.com/skashyap08">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
-</a>
-<a href="https://github.com/skashyap08?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-Projects-2563EB?style=for-the-badge&logo=github" alt="Projects">
-</a>
+**Key Concepts:** Continuous Integration, Continuous Delivery, Pipeline Automation
 
-</div>
+🔗 [View Repository](#)
 
 ---
 
-## About Me
+### 02. 🐳 Containerized Web Application with Docker
 
-Hello! I'm **Sakshi Kashyap**, a Computer Science Engineering undergraduate at **Sardar Beant Singh State University, Gurdaspur**, aspiring to build a career in DevOps and Cloud Engineering.
+**Objective:** Package and deploy a web application in a portable containerized environment.
 
-I'm interested in automating software delivery, working with cloud infrastructure, and developing reliable deployment workflows.
+- Created a Dockerfile to define the application environment.
+- Built and managed Docker images and containers.
+- Configured application port mapping and environment variables.
+- Used Docker Compose to manage multi-container services.
+- Documented local setup and deployment instructions.
 
-- 🎓 **Education:** B.Tech in Computer Science Engineering
-- ☁️ **Interests:** DevOps, Cloud Computing, and Infrastructure Automation
-- 🐧 **Exploring:** Linux Administration and System Automation
-- 🔄 **Learning:** CI/CD, Containerization, and Infrastructure as Code
-- 💻 **Programming:** Python
-- 🎯 **Career Goal:** Become a professional DevOps Engineer and contribute to meaningful open-source projects.
+**Tech Stack:**
+`Docker` `Docker Compose` `Node.js` `Express.js` `Linux` `Git`
 
-I believe in learning by building projects, experimenting with new technologies, and continuously improving my technical skills.
+**Key Concepts:** Containerization, Application Deployment, Environment Consistency
 
----
-
-## Technical Skills
-
-### DevOps & Cloud Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-</p>
-
-### Programming & Web Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-</p>
-
-### Tools & Databases
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-</p>
-
-*Note: The badges represent technologies I use in projects or am exploring. My current learning focus includes Kubernetes, Terraform, Jenkins, AWS, and GitHub Actions.*
+🔗 [View Repository](#)
 
 ---
 
-## Featured Projects
+### 03. ☁️ AWS Cloud Deployment Project
 
-### 01. AI-Based Smart Study Planner
+**Objective:** Deploy a web application on AWS and understand fundamental cloud infrastructure.
 
-A web application designed to help students organize academic tasks and generate personalized study schedules.
+- Deployed an application on an AWS compute service.
+- Explored cloud networking and security group configuration.
+- Configured application access and deployment settings.
+- Documented deployment steps and infrastructure requirements.
+- Investigated basic application availability and monitoring.
 
-**Key Features**
-- Subject and task management.
-- Deadline-aware task prioritization.
-- Automated study schedule generation.
-- Interactive dashboard for managing study activities.
+**Tech Stack:**
+`AWS` `EC2` `Linux` `Git` `Docker`
 
-**Technology Stack**
+**Key Concepts:** Cloud Computing, Infrastructure Management, Deployment
 
-`Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript`
-
-[View Repository →](https://github.com/skashyap08/AI-based-study-planner)
-
----
-
-### 02. Emotion Detection & Song Recommendation
-
-A Python-based project exploring facial emotion recognition and emotion-based music recommendations.
-
-**Key Features**
-- Facial expression analysis.
-- Emotion recognition using computer vision.
-- Personalized song recommendations based on detected emotions.
-
-**Technology Stack**
-
-`Python` `OpenCV` `TensorFlow` `Keras`
-
-[Explore Repositories →](https://github.com/skashyap08?tab=repositories)
+🔗 [View Repository](#)
 
 ---
 
-### 03. DevOps CI/CD Pipeline
+### 04. ⚙️ Infrastructure as Code with Terraform
 
-A hands-on DevOps learning project focused on understanding automated software delivery and deployment workflows.
+**Objective:** Learn to provision and manage cloud infrastructure using configuration files.
 
-**Areas of Exploration**
-- Source control and version management.
-- Docker-based application containerization.
-- Jenkins pipeline fundamentals.
-- GitHub Actions workflow automation.
-- Linux deployment practices.
-- AWS cloud deployment concepts.
+- Created Terraform configuration files for infrastructure resources.
+- Practiced initializing Terraform configurations.
+- Used execution plans to review proposed infrastructure changes.
+- Explored infrastructure creation and destruction workflows.
+- Documented resource configuration and deployment procedures.
 
-**Technology Stack**
+**Tech Stack:**
+`Terraform` `AWS` `Git` `Linux`
 
-`Git` `Docker` `Jenkins` `GitHub Actions` `Linux` `AWS`
+**Key Concepts:** Infrastructure as Code, Infrastructure Automation, Version Control
 
-*Project status: Update this section with the actual repository link and implemented features when the project is published.*
-
----
-
-### 04. Portfolio & Web Deployment
-
-Web development projects focused on responsive interfaces, source control, and deploying applications to hosting platforms.
-
-**Areas of Experience**
-- Responsive website development.
-- Git and GitHub version control.
-- Application deployment using hosting platforms.
-- Docker-based deployment experimentation.
-
-**Technology Stack**
-
-`HTML` `CSS` `JavaScript` `Git` `Docker`
-
-[Explore Repositories →](https://github.com/skashyap08?tab=repositories)
+🔗 [View Repository](#)
 
 ---
 
-## Current Learning Roadmap
+### 05. 🔄 Automated Deployment with GitHub Actions
 
-My current focus is on developing practical DevOps skills through structured learning and hands-on implementation.
+**Objective:** Build a CI/CD workflow that automates application validation and deployment.
 
-| Technology | Learning Focus |
-|---|---|
-| Linux | Command line, permissions, processes, and administration |
-| Git & GitHub | Branching, merging, collaboration, and version control |
-| Docker | Images, containers, and containerized applications |
-| Jenkins | CI/CD pipelines and build automation |
-| GitHub Actions | Workflow automation and continuous integration |
-| Kubernetes | Container orchestration and application management |
-| Terraform | Infrastructure as Code |
-| AWS | Cloud infrastructure and deployment |
-| Monitoring | Application health, metrics, and logs |
+- Created GitHub Actions workflow files.
+- Configured workflows to run on code pushes and pull requests.
+- Automated application checks.
+- Explored deployment automation for a web application.
+- Documented workflow execution and troubleshooting.
 
----
+**Tech Stack:**
+`GitHub Actions` `Git` `GitHub` `Docker`
 
-## GitHub Analytics
+**Key Concepts:** CI/CD, Workflow Automation, Continuous Integration
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=skashyap08&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skashyap08&layout=compact&hide_border=true&theme=transparent" alt="Top Languages">
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=skashyap08&hide_border=true&theme=transparent" alt="GitHub Contribution Streak">
-
-</div>
+🔗 [View Repository](#)
 
 ---
 
-## Contribution Activity
+### 06. 📊 Linux System Monitoring & Log Analysis
 
-<div align="center">
+**Objective:** Practice Linux administration and basic system monitoring.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=skashyap08&bg_color=00000000&color=539BF5&line=539BF5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph">
+- Used Linux commands to inspect processes, disk usage, and memory.
+- Explored system logs to investigate application issues.
+- Created shell scripts for routine administrative tasks.
+- Practiced file permissions and process management.
+- Documented troubleshooting procedures.
 
-</div>
+**Tech Stack:**
+`Linux` `Bash` `Shell Scripting` `Git`
 
----
+**Key Concepts:** System Administration, Automation, Troubleshooting
 
-## Let's Connect
-
-I'm interested in connecting with developers, DevOps engineers, cloud professionals, and open-source contributors.
-
-<div align="center">
-
-<a href="https://github.com/skashyap08">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<br><br>
-
-**Email:** Add your professional email address.
-
-</div>
+🔗 [View Repository](#)
 
 ---
-
-<div align="center">
-
-### Engineering Better Workflows, One Step at a Time.
-
-*Learn • Build • Automate • Improve*
-
-**Thanks for visiting my profile!**
-
-</div>
