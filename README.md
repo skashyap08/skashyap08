@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Computing+Enthusiast;CI%2FCD+Automation;Docker+%7C+Kubernetes+%7C+AWS;Always+Learning+New+Technologies" />
 
 <p>
-  https://user-images.githubusercontent.com/1849174/87816378-dfce8480-c86f-11ea-9ac0-2f7907e1d9d4.png
+  <img src="https://user-images.githubusercontent.com/1849174/87816378-dfce8480-c86f-11ea-9ac0-2f7907e1d9d4.png" />
 </p>
 
 </div>
